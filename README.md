@@ -13,6 +13,16 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
 
 
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+<!--Start Intro-->               
+<p align="left">Hola soy homero chino </p>
+
+- ✨ Estudiando a punto de terminar
+- 🌱 La vida no te vuelve malo es la UNI quien lo hace
+
+
 
 
 
